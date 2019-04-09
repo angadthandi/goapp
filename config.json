@@ -1,0 +1,11 @@
+{
+    "sqlitedbpath": "goappdb.sqlite",
+    "port":"9101",
+    "jwtauthsecret" : "AuBi816tLy483dmIxFpi.64aRxBdahWdolvl0y8CE",
+    "logpath": "app.log",
+    "loglevel": "debug",
+    "logmaxsize": "50",
+    "logmaxbackups": "30",
+    "logmaxage": "30",
+    "logcompress": "true"
+}
