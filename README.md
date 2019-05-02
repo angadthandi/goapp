@@ -1,2 +1,2 @@
 # goapp
-Web Application Server + Database + Front-End
+Web Server + Database + Front-End Application
